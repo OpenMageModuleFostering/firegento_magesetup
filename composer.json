@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/FireGento_MageSetup",
+    "type": "magento-module",
+    "license": "GPL-3.0",
+    "homepage": "",
+    "description": "MageSetup configures a shop for a national market. It creates configuration and tax settings, email templates, cms blocks and pages.",
+    "authors": [
+    {
+        "name": "Team FireGento",
+        "email": "team@firegento.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
