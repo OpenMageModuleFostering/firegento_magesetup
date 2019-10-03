@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 MageSetup configures a shop for a national market. It creates configuration and tax settings, email templates, cms blocks and pages.
